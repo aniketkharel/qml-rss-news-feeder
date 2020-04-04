@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>clear-black-18dp.svg</file>
+        <file>delete-black-18dp.svg</file>
+        <file>fiber_new-black-18dp.svg</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+</RCC>
